@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask
-        image: lsluserd/capstone65:new
+        image: lsluserd/capstone65:latest
         ports:
         - containerPort: 80
